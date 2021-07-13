@@ -8,29 +8,21 @@ The goal was to create a responsive website with information about our team and 
 
 If you want to know more about us and about what we do please visit our [team's website](http://beta.adalab.es/project-promo-m-module-1-team-3/).
 
-Main page
-
-![gif of desktop view ]()
-
-Contact forma and page
-
-![gif of desktop view ]()
-
 All the design and pages are responsive and addaptable to all screen sizes.
 
 **- Requirements**
 
 The project consists of:
 
-- A main page of the website had to be structured by header, hero, section 'about us', section 'strengths and weaknesses', section with individual infomation and footer.
+- A main page of the website structured by header, hero, section 'about us', section 'strengths and weaknesses', section with individual infomation and footer.
 
-- A contact page of the website contains a form with mandatory fields to fill, with the option to return to the main page and navigate trougth the sections of the web.
+- A contact page of the website containing a contact form with mandatory fields to fill, with option to return to the main page and navigate through the sections of the web.
 
 ## Learnings 💡
 
-- Learning HTML5 and CSS3 by creating a website.
+- HTML5 and CSS3 to create the web.
 - Re-doing the website by using Gulp to automatize and SASS (SCSS) to style.
-- Following Agile & SCRUM workflow and using GitHub Proyect to organize our tasks.
+- Following Agile & SCRUM workflow and using GitHub project to organize our tasks.
 
 ## Tools 💻
 
